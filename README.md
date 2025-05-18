@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-Bioinformatics engineer, with a professional focus on applying Deep Learning and Machine Learning in bioinformatics. My experience spans from protein engineering to genomics and histological image analysis, where I use advanced algorithms to tackle complex scientific challenges and generate innovative solutions in biomedicine and biotechnology.
+ - 😄 My name is Gabriel. I'm a bioinformatics engineer, with a professional focus on applying Deep Learning and Machine Learning in bioinformatics.
 
-Throughout my career, I have worked in protein engineering, using Deep Learning techniques to predict and design protein sequences. Additionally, I have hands-on experience in the application of Deep Learning to histological image analysis, leveraging AI to analyze tissue samples and detect patterns that aid in medical diagnosis. I am also increasingly focused on the application of Machine Learning algorithms to genomics, with a particular emphasis on GWAS (Genome-Wide Association Studies), polygenic risk scores, and omics data analysis. My goal is to advance in the prediction of genetic variants, the identification of risk factors for complex diseases, and the personalization of treatments in precision medicine.
+ - 🔭 I have hands-on experience in the application of Deep Learning to histological image analysis, leveraging AI to analyze tissue samples and detect patterns that aid in medical diagnosis. I am also increasingly focused on the application of Machine Learning algorithms to genomics, with a particular emphasis on GWAS (Genome-Wide Association Studies), polygenic risk scores, and omics data analysis. My goal is to advance in the prediction of genetic variants, the identification of risk factors for complex diseases, and the personalization of treatments in precision medicine.
 
-My goal is to collaborate on innovative projects that integrate engineering, computational biology, artificial intelligence, and medical imaging, focusing on creating solutions that can have a real impact on science and health.
+ - 👯 My goal is to collaborate on innovative projects that integrate engineering, computational biology, artificial intelligence, and medical imaging, focusing on creating solutions that can have a real impact on science and health.
+ 
+ - 📫 You can contact me on Linkedin and we can talk about nerdy stuff.
 
 <!--
 **GabrielCabas/GabrielCabas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
