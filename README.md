@@ -1,11 +1,9 @@
 ## Hi there 👋
 
  - 😄 My name is Gabriel. I'm a bioinformatics engineer, with a professional focus on applying Deep Learning and Machine Learning in bioinformatics.
-
- - 🔭 I have hands-on experience in the application of Deep Learning to histological image analysis, leveraging AI to analyze tissue samples and detect patterns that aid in medical diagnosis. I am also increasingly focused on the application of Machine Learning algorithms to genomics, with a particular emphasis on GWAS (Genome-Wide Association Studies), polygenic risk scores, and omics data analysis. My goal is to advance in the prediction of genetic variants, the identification of risk factors for complex diseases, and the personalization of treatments in precision medicine.
-
+ - 🔭 I have hands-on experience in the application of Deep Learning to histological image analysis, leveraging AI to analyze tissue samples and detect patterns that aid in medical diagnosis.
+ - 🌱 I am also increasingly focused on the application of Machine Learning algorithms to genomics, with a particular emphasis on GWAS (Genome-Wide Association Studies), polygenic risk scores, and omics data analysis. My goal is to advance in the prediction of genetic variants, the identification of risk factors for complex diseases, and the personalization of treatments in precision medicine.
  - 👯 My goal is to collaborate on innovative projects that integrate engineering, computational biology, artificial intelligence, and medical imaging, focusing on creating solutions that can have a real impact on science and health.
- 
  - 📫 You can contact me on Linkedin and we can talk about nerdy stuff.
 
 <!--
