@@ -1,0 +1,17 @@
+name: Auto pull on server
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  pull:
+    runs-on: self-hosted
+
+    steps:
+      - name: Update production code
+        run: |
+          cd /mnt/beegfs/home/g.cabas/GabrielCabas/
+          git fetch origin main
+          git reset --hard origin/main
+          echo "Pull ejecutado correctamente"
